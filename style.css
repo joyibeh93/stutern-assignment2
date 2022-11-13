@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+p{
+    margin: 20px;
+    font-size: 20px;
+}
+.order-list{
+    list-style-type: none;
+    color:blue;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: 18px;
+}
+.unordered-list{
+    list-style-type: none;
+    color:red;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: 18px;
+}
+    
